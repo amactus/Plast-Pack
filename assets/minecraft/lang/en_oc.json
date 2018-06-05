@@ -3602,9 +3602,9 @@
   "biome.minecraft.taiga": "Taiga",
   "biome.minecraft.void": "The Void",
   "biome.minecraft.warm_ocean": "Warm Ocean",
-  "generator.minecraft.surface": "Surface",
-  "generator.minecraft.caves": "Caves",
-  "generator.minecraft.floating_islands": "Floating Islands",
+  "generator.minecraft.surface": "§aSurface",
+  "generator.minecraft.caves": "§6Caves",
+  "generator.minecraft.floating_islands": "§dFloating Islands",
   "realms.missing.module.error.text": "Realms could not be opened right now, please try again later",
   "realms.missing.snapshot.error.text": "Realms is currently not supported in snapshots"
 }
