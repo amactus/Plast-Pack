@@ -1,13 +1,12 @@
 Plast Pack
 ==========
+*adapted from Plastix's [Plast Pack](https://github.com/Plastix/Plast-Pack)*
 
-[![Github All Releases](https://img.shields.io/github/downloads/Plastix/Plast-Pack/total.svg)](https://github.com/Plastix/Plast-Pack/releases)
-
->A PVP customized version of the default Minecraft resource pack. Made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
+>A PVP customized version of the default Minecraft resource pack. Originally made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
 
 Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Colors*, and *Natural Textures*.
 
-The full Changelog is available [here](https://github.com/Plastix/Plast-Pack/blob/master/CHANGELOG.md)! Screenshots [here](https://imgur.com/a/EUHFX)!
+Downloads are available [here](https://github.com/amactus/amac-pack/releases)! Screenshots [here](https://imgur.com/a/EUHFX)!
 
 Special Thanks to:
 ------
@@ -24,8 +23,8 @@ Special Thanks to:
 * [Freyr29](https://github.com/Freyrrr): Trap chest textures
 * [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
 * [i2](https://web.archive.org/web/20160925023144/https://oc.tc/i2): Feedback and language file help
-* [Brottweiler](https://github.com/Brottweiler): Various fixes and custom textures
 * [plexigras](https://github.com/plexigras): Beacon pyramid tweak
+* [Brottweiler](https://github.com/Brottweiler): Maintaining Plast Pack
 
 Licensing:
 ------
