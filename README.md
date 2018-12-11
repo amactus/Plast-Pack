@@ -1,4 +1,4 @@
-Plast Pack
+amac pack
 ==========
 *adapted from Plastix's [Plast Pack](https://github.com/Plastix/Plast-Pack)*
 
